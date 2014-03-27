@@ -1,0 +1,1 @@
+This app is a simple Medical App. It will mainly be used to request information by a patient to a Hospital.
